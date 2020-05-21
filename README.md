@@ -12,14 +12,6 @@ O desafio desta semana e da próxima será desenvolver um *SPA (Single Page Appl
 > * Ao clicar no ícone de **story** do **usuário** deverá abrir seu story com o respectivo vídeo e barra de progresso com a opção de fechar e voltar para o feed (rota inicial).
 > * Deve permitir cadastrar um usuário na rota */newuser* e exibir uma mensagem de alerta ao enviar.
 
-### Referência em Produção:
-
-[https://vimeo.com/414860405/ad600c6832](https://vimeo.com/414860405/ad600c6832)
-
-### Repositório Base (para fins de estudo):
-
-[https://github.com/codenation-dev/react-instagram](https://github.com/codenation-dev/react-instagram)
-
 ## Requisitos Parte 1:
 * Nesta primeira parte você deverá focar apenas na componentização do projeto seguindo os padrões descritos abaixo na seção *Estrutura de Arquivos e Pastas*.
 * Não se preocupe com lógica de estados ou requisições http nesta parte, adicione os dados do usuário *hard-code*.
